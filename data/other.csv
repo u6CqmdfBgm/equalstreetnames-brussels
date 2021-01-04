@@ -146,7 +146,7 @@ Romeinsesteenweg,,Q194029,way
 "Allée du Turf - Turfdreef",,,way
 "Allées de Provence - Provencewandelwegen",,,relation
 "Allées du Languedoc - Languedocwandelwegen",,,relation
-"Alsembergsesteenweg - Chaussée d’Alsemberg",,,way
+Alsembergsesteenweg,,,way
 "Altitude Cent - Hoogte Honderd",,,way
 "Ancien Dieweg - Oude Dieweg",,,relation
 "Ancien Middelweg - Oude Middelweg",,,way
@@ -281,7 +281,6 @@ Antwerpselaan,,,way
 "Avenue de Visé - Visélaan",,,way
 "Avenue de Watermael - Watermaalselaan",,,way
 "Avenue de Wezembeek - Wezembeeklaan",,,relation
-"Avenue de Witthem - Witthemlaan",,,relation
 "Avenue de l'Aéroplane - Vliegtuiglaan",,,relation
 "Avenue de l'Agneau - Lamlaan",,,way
 "Avenue de l'Aigle - Arendlaan",,,relation
